@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LM324DT")(type "KiCad")(uri "C:/Users/chris/OneDrive/Documentos/FUNPYTHON/PCB KICAD/FPY/INDUSTRIAL-CONTROLLER-ESP32S3/LM324DT/KiCADv6/LM324DT/LM324DT.kicad_sym")(options "")(descr ""))
+  (lib (name "SLW-66527511-SMT-TR_CUD")(type "KiCad")(uri "C:/Users/chris/OneDrive/Documentos/FUNPYTHON/PCB KICAD/FPY/CONTROL WIFI ESP32 S3 V4.0/SLW-66527511-SMT-TR_CUD.kicad_sym")(options "")(descr ""))
+  (lib (name "MIC5504-1.8YM5-TR")(type "KiCad")(uri "C:/Users/chris/OneDrive/Documentos/FUNPYTHON/PCB KICAD/FPY/CONTROL WIFI ESP32 S3 V4.0/MIC5504-1.8YM5-TR.kicad_sym")(options "")(descr ""))
+)
